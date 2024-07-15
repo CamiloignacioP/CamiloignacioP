@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CamiloignacioP
 - 👀 I’m interested in Sports (Tennis, to walk), literature, languages learning.
-- 🌱 I’m currently learning Python, Javascript and web dvelopment.
+- 🌱 I’m currently learning Python, Javascript and Web development.
 - 💞️ I’m looking to collaborate on new interesting projects!
 - 📫 How to reach me milo@outlook.cl
 - 😄 Pronouns: ...
